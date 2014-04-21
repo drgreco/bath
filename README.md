@@ -1,4 +1,4 @@
-BATH - a shell script that connects to a webpage using curl 
+BATH - a web interface to manage iptables for the purpose of adding a layer of authentication 
 =============================================================
 
 The python files go in _/var/lib/bath_  
